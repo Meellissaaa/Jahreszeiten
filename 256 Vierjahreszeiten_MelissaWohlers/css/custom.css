@@ -1,0 +1,84 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+	
+.feature {
+	background: rgb(82, 177, 255) linear-gradient(to bottom, rgb(82, 177, 255), rgb(64, 140, 202));
+	color: black;
+	}
+
+#feature-carousel {
+	min-height: 250px;
+	}
+	
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+	background-image: url(../bilder/hg.jpg);
+	background-repeat: space;
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+}
+
+.footer-blurb-item h3 {
+	color: white;
+}
+
+.footer-blurb-item p:first-letter {
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+}
+ 
+.small-print {
+	background-color: #eee;
+	padding: 30px 0;
+}
+
+.feature,
+.page-intro,
+
+.article-intro p {
+	margin-top: 50px;
+	color: darkblue;
+}
+
+.article-intro p:first-letter {
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+}
+
+.footer-blurb,
+
+.small-print {
+	text-align: left;
+	
+	}
+
+.item {
+	text-align: center;
+}
+
+.item h1 {
+	color: darkblue;
+}
+
+.item p {
+	color: white;
+}
+
+.willkommen {
+	height: 300px;
+}
